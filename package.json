@@ -1,5 +1,5 @@
 {
-  "name": "math-mcp",
+  "name": "x-mcp",
   "version": "0.1.0",
   "description": "A minimal TypeScript Node project",
   "main": "dist/index.js",
