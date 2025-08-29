@@ -1,0 +1,28 @@
+{
+  "name": "math-mcp",
+  "version": "0.1.0",
+  "description": "A minimal TypeScript Node project",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "install": "npm install",
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.0",
+    "ts-node": "^10.9.1",
+    "zod": "^3.23.8",
+    "@types/node": "^20.0.0",
+    "@modelcontextprotocol/sdk": "^1.17.3",
+    "@types/node-fetch": "^2.6.12",
+    "node-fetch": "^3.3.2",
+    "axios": "^1.4.0",
+    "vitest": "3.2.4"
+  }
+}
