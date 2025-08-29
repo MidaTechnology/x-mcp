@@ -1,4 +1,4 @@
-# math-mcp
+# x-mcp
 
 Minimal TypeScript Node project scaffold.
 
